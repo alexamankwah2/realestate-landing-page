@@ -3,21 +3,21 @@ import { MdCancel, MdAnalytics } from "react-icons/md";
 const data = [
   {
     icon: <HiShieldCheck/>,
-    heading: "Best interest rates on the market",
+    heading: "Best prices on the market",
     detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
+      "The real estate company conducts thorough market research to stay updated with current trends, property values, and competitor pricing. This allows them to accurately assess the market and offer the most competitive prices to their clients.",
   },
   {
     icon: <MdCancel />,
-    heading: "Prevent unstable prices",
+    heading: "Strong Network and Connections",
     detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
+      "The company has established strong relationships with various stakeholders in the real estate industry, including developers, contractors, and suppliers. These connections enable them to negotiate favorable deals and secure properties at lower costs, which they can then pass on to their customers in the form of affordable prices.",
   },
   {
     icon: <MdAnalytics />,
-    heading: "Best price on the market",
+    heading: "Extensive Market Research",
     detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
+      "The real estate company invests heavily in comprehensive market research, enabling them to gather in-depth information about property prices, trends, and fluctuations. By staying constantly updated, they can accurately assess property values and determine competitive pricing strategies.",
   },
 ];
 export default data;

@@ -1,38 +1,38 @@
 [
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "name": "Azure Bay Villa",
+    "price": "$850,000",
+    "detail": "Miami, Florida. Contemporary villa with a tranquil Zen garden, 5 bedrooms, 4.5 bathrooms, expansive windows, open floor plan, and a private pool",
     "image": "./r1.png"
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "name": "Paradise Garden",
+    "price": "$1,200,000",
+    "detail": "Austin, Texas. Elegant waterfront estate with a private dock, 7 bedrooms, 6.5 bathrooms, gourmet kitchen, home theater, wine cellar, and expansive outdoor living spaces.",
     "image": "./r2.png"
   },
   {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "name": "Lakeside Manor",
+    "price": "$1,600,000",
+    "detail": "Seattle, Washington. Sleek and modern townhouse in the heart of the city, 3 bedrooms, 2.5 bathrooms, open floor plan, rooftop deck, and close proximity to tech hubs and cultural attractions.",
     "image": "./r3.png"
   },
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "name": "Modern Urban Oasis",
+    "price": "$1,100,000",
+    "detail": "Aspen, Colorado. A sprawling mountain retreat surrounded by nature, featuring 6 bedrooms, 5 bathrooms, a grand living room with a stone fireplace, a gourmet kitchen, a home theater, a wine cellar, a hot tub, and access to nearby hiking trails and ski resorts",
     "image": "./r1.png"
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "name": "Serenity Springs",
+    "price": "$1,400,000",
+    "detail": "Santa Barbara, California. A contemporary townhouse nestled in a vibrant neighborhood, offering 4 bedrooms, 3.5 bathrooms, a sleek gourmet kitchen, a rooftop deck with city views, an attached garage, and proximity to local shops, restaurants, and parks",
     "image": "./r2.png"
   },
   {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "name": "Coastal Paradise Villa",
+    "price": "$2,800,000",
+    "detail": "Chicago, Illinois. An exquisite Mediterranean-style villa with ocean views, offering 4 bedrooms, 4.5 bathrooms, a sunlit courtyard, a gourmet kitchen, a pool and spa, lush gardens, and close proximity to beautiful beaches and upscale dining.",
     "image": "./r3.png"
   }
 ]
